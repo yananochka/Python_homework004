@@ -2,10 +2,7 @@
 # 34. Даны два файла в каждом из которых находится запись многочлена. 
 # Сформировать файл, содержащий сумму многочленов
 
-from operator import le
 import re
-import itertools
-
 
 file1 = 'Mnogo.txt'
 file2 = 'Mnogo_2.txt'
