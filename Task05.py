@@ -9,7 +9,6 @@ import itertools
 
 file1 = 'Mnogo.txt'
 file2 = 'Mnogo_2.txt'
-file_sum = '34_Sum_polynomials.txt'
 
 with open(str(file1), 'r') as data:
     pol = data.read()
